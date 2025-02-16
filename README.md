@@ -1,5 +1,7 @@
 # SVG-icons
 
+Feel free to use these icons in your projects. :)
+
 Sizes of svg icons:
 
 - fire.svg icon is 300x300
