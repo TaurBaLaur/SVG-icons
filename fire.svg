@@ -1,0 +1,21 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <radialGradient id="firegradient" cx="50%" cy="100%" r="100%">
+            <stop offset="0%" stop-color="yellow" />
+            <stop offset="100%" stop-color="red" />
+        </radialGradient>
+    </defs>
+    <path id="fire" fill="url(#firegradient)" stroke="none" d="M 28 137
+        
+        c -40 140 240 140 200 0
+        l -30 -100
+        l -20 70
+        l -30 -100
+        l -20 80
+        l -20 -50
+        l -20 50
+        l -30 -60
+        Z
+        "
+    />
+</svg>
