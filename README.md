@@ -7,4 +7,4 @@ Feel free to use these icons in your projects. :)
 Sizes of svg icons:
 
 - fire.svg icon is 256x256
-- bear-paw.svg is 1000x1000
+- bear-paw.svg is 800x800
