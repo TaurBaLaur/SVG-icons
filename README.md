@@ -6,5 +6,6 @@ Feel free to use these icons in your projects. :)
 
 Sizes of svg icons:
 
-- fire.svg icon is 256x256
 - bear-paw.svg is 800x800
+- fire.svg icon is 256x256
+- tear-drop.svg is 200x200
