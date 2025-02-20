@@ -9,3 +9,5 @@ Sizes of svg icons:
 - bear-paw.svg is 800x800
 - fire.svg icon is 256x256
 - tear-drop.svg is 200x200
+- check-mark.svg is 128x128
+- x-mark.svg is 128x128
